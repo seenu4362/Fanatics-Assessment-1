@@ -38,8 +38,8 @@ This project showcases a list of top games, stores, and leader board. Users can 
 ### Clone the repository:
 
 ```bash
-$ git https://github.com/seenu4362/Fanatics-Assessment.git
-$ cd fanatics
+$ git https://github.com/KarthikRayala3777/Fanatics-Assessment
+$ cd Fanatics-Assessment
 ```
 
 ### Configure Environment Variables:
